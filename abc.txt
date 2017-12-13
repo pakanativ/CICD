@@ -1,5 +1,6 @@
 hello how r u?
 fbdjsdhvjfdjvgldf
+<<<<<<< Updated upstream
 7dsjvfdlskdk;l
 dcbshfjdfdgdr
 gfdvgdfklgldrkg;drlx
@@ -12,3 +13,4 @@ hdfdjfdj
 dsdjfcdsjfsk;
 cvjdhvkjfdfd
 fvdskfjseldk
+fvdskfjseldk;
